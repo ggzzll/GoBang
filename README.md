@@ -1,5 +1,8 @@
 # 五子棋API
+## 项目介绍
 该代码使用PHP代码编写，使用了GD库  
 项目地址：https://github.com/ggzzll/GoBang  
+## 使用方法  
+## 作者信息  
 作者GGZZLL，一个热爱编程的MAN，感谢您的支持和使用，您的支持是作者最大的动力  
 Copyright © 2022 GGZZLL All rights reserved.
