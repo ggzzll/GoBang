@@ -1,7 +1,7 @@
 # 五子棋API
 ## 项目介绍  
 该代码使用PHP代码编写，使用了GD库与宋体字体  
-项目地址: https://github.com/ggzzll/GoBang  
+项目地址：https://github.com/ggzzll/GoBang  
 ## 使用方法  
 /?id=用户id  
 加入五子棋棋局(满两人自动开始游戏)  
